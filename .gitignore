@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+datasets/*
+!datasets/mso_prelim_dataset.py
+!datasets/mso_dataset.py
+runs/
+run_docker_gpu.bash
+debug_custom_dataset.py
+feature_eval/*
+!feature_eval/mini_batch_logistic_regression_evaluator.ipynb
